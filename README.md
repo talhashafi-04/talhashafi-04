@@ -13,8 +13,8 @@ I'm passionate about software development and creating innovative solutions. Bes
 
 ### Get in Touch
 
-📧 Feel free to email me: [your_email@example.com](mailto:your_email@example.com)  
-💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/your_linkedin_profile)  
+📧 Feel free to email me: [shafitalha2004@example.com](mailto:your_email@example.com)  
+💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-talha-shafi-63004a26a/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=pk)  
 
 Absolutely, here's the updated section:
 
