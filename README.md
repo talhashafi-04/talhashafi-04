@@ -4,11 +4,11 @@
 
 
 
-- 🔭 I’m currently working on **Flappy Bird**
+- 🔭 I’m currently working on **FAST API**
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently learning **Python,Numpy,EDA**
 
-- 💬 Ask me about **C++, Python, SFML**
+- 💬 Ask me about **C++, Python, AI/ML, SFML**
 
 - 📫 How to reach me **shafitalha2004@gmail.com**
 
