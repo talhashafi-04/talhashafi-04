@@ -1,112 +1,195 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:0a0f1e,100:000000&height=160&section=header&text=TALHA%20SHAFI&fontSize=70&fontColor=ffffff&animation=blinking&fontAlignY=55&desc=——————————————————————&descSize=10&descAlignY=80&descColor=1e40af" />
+<!-- ░░░ HERO ░░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:060A14,30:0B1628,60:112240,100:060A14&height=320&section=header&text=Muhammad%20Talha%20Shafi&fontSize=54&fontColor=E8EDF5&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Competitive%20Programmer%20%E2%80%A2%20CS%20%40%20FAST-NUCES%20%2727&descAlignY=60&descSize=16&descColor=5B8DD9&stroke=1E3A6E&strokeWidth=2" />
+
+<!-- ░░░ TYPING ░░░ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=700&color=5B8DD9&center=true&vCenter=true&width=540&lines=🤖+Building+Agentic+AI+Systems;⚡+GPU+Acceleration+%7C+CUDA+%2F+OpenACC;🏆+ICPC+Regional+%E2%80%94+21st+in+Pakistan;🎓+Teaching+Assistant+%40+FAST-NUCES;📖+Hafiz-e-Quran" />
+
+<br/>
+
+<!-- ░░░ BADGES ░░░ -->
+<a href="https://linkedin.com/in/muhammad-talha-shafi"><img src="https://img.shields.io/badge/LinkedIn-0B1628?style=for-the-badge&logo=linkedin&logoColor=5B8DD9" /></a>&nbsp;
+<a href="mailto:m.talhashafi2004@gmail.com"><img src="https://img.shields.io/badge/Email-0B1628?style=for-the-badge&logo=gmail&logoColor=5B8DD9" /></a>&nbsp;
+<a href="https://github.com/talhashafi-04"><img src="https://img.shields.io/badge/GitHub-0B1628?style=for-the-badge&logo=github&logoColor=5B8DD9" /></a>
+
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=talhashafi-04&label=PROFILE+VIEWS&color=112240&style=flat&labelColor=0B1628" />
 
 </div>
 
-<div align="center">
+<br/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=600&color=6B7280&center=true&vCenter=true&width=500&lines=const+role+%3D+%22AI+%26+Automation+Engineer%22;const+university+%3D+%22FAST-NUCES+%2727%22;const+rank+%3D+%22ICPC+Regional+%E2%80%94+21st+in+Pakistan%22;const+status+%3D+%22Building+intelligent+systems%22;const+faith+%3D+%22Hafiz-e-Quran+%F0%9F%93%96%22" />
+<!-- ░░░ ABOUT SECTION ░░░ -->
+<table width="100%" border="0">
+<tr>
+<td width="55%" valign="top">
 
-</div>
+### 〔 01 〕About Me
 
-<br>
+> *"Success is where preparation and opportunity meet."*
 
-<div align="center">
+I'm a CS undergrad at **FAST-NUCES Islamabad**, passionate about building systems that sit at the intersection of **AI, automation, and high-performance computing**. I lead technical teams, compete in ICPC, and teach programming — all while exploring the frontiers of agentic AI.
 
-[![LinkedIn](https://img.shields.io/badge/_%20LinkedIn_-0a0f1e?style=for-the-badge&logo=linkedin&logoColor=4A90D9&labelColor=0a0f1e)](https://linkedin.com/in/muhammad-talha-shafi)&nbsp;
-[![Gmail](https://img.shields.io/badge/_%20Email_-0a0f1e?style=for-the-badge&logo=gmail&logoColor=4A90D9&labelColor=0a0f1e)](mailto:m.talhashafi2004@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/_%20GitHub_-0a0f1e?style=for-the-badge&logo=github&logoColor=4A90D9&labelColor=0a0f1e)](https://github.com/talhashafi-04)
+- 🏛️ **FAST-NUCES '27** — CGPA: `3.58 / 4.0`
+- 🛠️ **Technical Lead** @ Meri Kahani Society
+- 🏆 **ICPC 2025** — 21st in Pakistan
+- 🥇 **Code Jail** — 1st Place, Perfect Score
+- 🎓 **TA** for Programming Fundamentals
+- 📖 **Hafiz-e-Quran**
+- 🍳 I am a part-time chef — now I "cook" C++ and AI agents
 
-![](https://komarev.com/ghpvc/?username=talhashafi-04&label=PROFILE+VIEWS&color=1e3a5f&style=flat)
+</td>
+<td width="45%" valign="top" align="center">
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhashafi-04&layout=donut&hide_border=true&bg_color=0B1628&title_color=5B8DD9&text_color=8BAFD4&icon_color=5B8DD9&langs_count=6" />
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-<br>
+<!-- ░░░ SKILLS ░░░ -->
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                        SYSTEM PROFILE                           ║
-╠══════════════════════════════════════════════════════════════════╣
-║  name         →  Muhammad Talha Shafi                           ║
-║  location     →  Islamabad, Pakistan  🌍                        ║
-║  university   →  FAST-NUCES  |  CS '27  |  CGPA: 3.58/4.0      ║
-║  role         →  Technical Lead @ Meri Kahani Society           ║
-║  competing    →  ICPC Regional Finalist — 21st in Pakistan 🏆   ║
-║  status       →  [ ONLINE ] Building things that matter         ║
-╠══════════════════════════════════════════════════════════════════╣
-║  currently_building:                                            ║
-║    ⟶  Agentic AI systems with LangGraph                         ║
-║    ⟶  GPU-accelerated CV pipelines (CUDA / OpenACC)             ║
-║    ⟶  Full-stack automation at scale                            ║
-╠══════════════════════════════════════════════════════════════════╣
-║  fun_fact     →  I am a part-time chef — now I "cook"           ║
-║                  optimized C++ code and AI agents instead 🍳    ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-<br>
-
----
-
-### `01` &nbsp; WEAPONS OF CHOICE
+### 〔 02 〕Tech Stack
 
 <div align="center">
 
 <table>
 <tr>
-<td valign="top" width="25%">
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="40"/><br/><sub>Python</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=cpp" width="40"/><br/><sub>C++</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=js" width="40"/><br/><sub>JavaScript</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=java" width="40"/><br/><sub>Java</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=cs" width="40"/><br/><sub>C#</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=react" width="40"/><br/><sub>React</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/><sub>Node.js</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=fastapi" width="40"/><br/><sub>FastAPI</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=docker" width="40"/><br/><sub>Docker</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/><sub>MongoDB</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/><sub>SQL</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=linux" width="40"/><br/><sub>Linux</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="40"/><br/><sub>Git</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/><sub>Tailwind</sub>
+</td>
+</tr>
+</table>
 
-**🤖 AI & Agents**
-```
-n8n
-LangChain
-LangGraph
-OpenAI API
-Anthropic API
-Groq
-```
+<br/>
+
+<!-- AI badges since skillicons doesn't have them -->
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white&labelColor=0B1628)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=5B8DD9&labelColor=0B1628)
+![LangGraph](https://img.shields.io/badge/LangGraph-5B8DD9?style=flat-square&logoColor=white&labelColor=0B1628)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white&labelColor=0B1628)
+![Anthropic](https://img.shields.io/badge/Anthropic-0B1628?style=flat-square&logoColor=5B8DD9)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white&labelColor=0B1628)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ░░░ PROJECTS ░░░ -->
+
+### 〔 03 〕Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔲 KLT Feature Tracker — GPU
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![OpenACC](https://img.shields.io/badge/OpenACC-grey?style=flat-square)
+
+GPU-accelerated computer vision with optimized memory hierarchy and multi-scale pyramid tracking using shared memory parallelism.
 
 </td>
-<td valign="top" width="25%">
+<td width="50%" valign="top">
 
-**⚡ Languages**
-```
-C++ / C
-Python
-JavaScript
-Java
-C#
-Assembly (MASM)
-```
+#### 🤖 Corporate AI-Automation Hub
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-FF6B35?style=flat-square&logoColor=white)
+
+End-to-end agentic task automation. LLM-powered content gen, corporate email workflows, Discord & Slack integration.
 
 </td>
-<td valign="top" width="25%">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**🌐 Web & Backend**
-```
-React
-Node.js / Express
-FastAPI
-Tailwind CSS
-MongoDB
-SQL / SQL Server
-```
+#### 🌳 Git Lite — Version Control System
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-0B1628?style=flat-square)
+
+Custom VCS built from scratch — B-Trees, AVL, Red-Black trees, Merkle trees for corruption detection & integrity checks.
 
 </td>
-<td valign="top" width="25%">
+<td width="50%" valign="top">
 
-**🔧 DevOps & HPC**
-```
-Docker
-CUDA / OpenACC
-Linux / Bash
-Git
-VPS Deployment
-Jupyter
-```
+#### ♟️ Online Super Tic-Tac-Toe
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+Real-time multiplayer with custom room creation, integrated chat, unlimited spectators & full responsive design.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎙️ Trillet Voice AI *(Hackathon)*
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-5B8DD9?style=flat-square)
+![Voice](https://img.shields.io/badge/Voice-grey?style=flat-square)
+
+Career counseling voice bot for students — matched career paths based on aptitude, personality & interests.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌿 Plants vs Zombies — GOTY
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-0B1628?style=flat-square)
+
+Full PvZ recreation using industrial design patterns. Went viral — **50K+ impressions, 1000+ reactions** on LinkedIn.
 
 </td>
 </tr>
@@ -114,100 +197,85 @@ Jupyter
 
 </div>
 
-<br>
+<br/>
 
 ---
 
-### `02` &nbsp; SELECTED WORKS
+<!-- ░░░ STATS ░░░ -->
+
+### 〔 04 〕GitHub Stats
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  🔲  KLT FEATURE TRACKER — GPU                                  │
-│      CUDA · OpenACC · C++                                       │
-│      Multi-scale pyramid tracking w/ shared memory optimization │
-├─────────────────────────────────────────────────────────────────┤
-│  🤖  CORPORATE AI-AUTOMATION HUB                                │
-│      n8n · Docker · Groq LLM · JavaScript                       │
-│      Agentic pipelines · email automation · Discord/Slack       │
-├─────────────────────────────────────────────────────────────────┤
-│  🌳  GIT LITE — VERSION CONTROL SYSTEM                          │
-│      C++ · DSA                                                  │
-│      B-Trees, AVL, Red-Black, Merkle trees from scratch         │
-├─────────────────────────────────────────────────────────────────┤
-│  ♟️  ONLINE SUPER TIC-TAC-TOE                                   │
-│      Python · JavaScript · WebSocket                            │
-│      Real-time · custom rooms · chat · spectator mode           │
-├─────────────────────────────────────────────────────────────────┤
-│  🎙️  TRILLET VOICE AI  [Hackathon]                              │
-│      Agentic AI · Voice                                         │
-│      Career counseling bot for students                         │
-├─────────────────────────────────────────────────────────────────┤
-│  🌿  PLANTS VS ZOMBIES — GOTY EDITION                           │
-│      C++ · OOP · Design Patterns                                │
-│      50,000+ LinkedIn impressions · 1,000+ reactions            │
-└─────────────────────────────────────────────────────────────────┘
-```
+<img src="https://github-readme-stats.vercel.app/api?username=talhashafi-04&show_icons=true&hide_border=true&bg_color=0B1628&title_color=5B8DD9&text_color=8BAFD4&icon_color=5B8DD9&count_private=true&rank_icon=github" height="165"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=talhashafi-04&hide_border=true&background=0B1628&ring=5B8DD9&fire=5B8DD9&currStreakLabel=8BAFD4&sideLabels=8BAFD4&dates=4b5563&currStreakNum=E8EDF5&sideNums=E8EDF5" height="165"/>
+
+<br/><br/>
+
+<!-- Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/talhashafi-04/talhashafi-04/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/talhashafi-04/talhashafi-04/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
-<br>
+<br/>
 
 ---
 
-### `03` &nbsp; STATS
+<!-- ░░░ ACHIEVEMENTS ░░░ -->
+
+### 〔 05 〕Achievements
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=talhashafi-04&show_icons=true&hide_border=true&bg_color=0a0f1e&title_color=4A90D9&text_color=94a3b8&icon_color=4A90D9&count_private=true&rank_icon=github&card_width=420" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=talhashafi-04&hide_border=true&background=0a0f1e&ring=4A90D9&fire=4A90D9&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=4b5563&currStreakNum=e2e8f0&sideNums=e2e8f0" height="160"/>
+<table>
+<tr>
+<td align="center" width="25%">
 
-<br><br>
+### 🥇
+**ICPC Regional**<br/>
+<sub>21st in Pakistan · 2025</sub>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhashafi-04&layout=compact&hide_border=true&bg_color=0a0f1e&title_color=4A90D9&text_color=94a3b8&langs_count=8" height="130"/>
+</td>
+<td align="center" width="25%">
+
+### 🏅
+**Code Jail**<br/>
+<sub>1st Place · Perfect Score</sub>
+
+</td>
+<td align="center" width="25%">
+
+### 📜
+**Dean's List**<br/>
+<sub>Spring 2023 & 2024</sub>
+
+</td>
+<td align="center" width="25%">
+
+### 📖
+**Hafiz-e-Quran**<br/>
+<sub>Full Quran memorized</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<br>
+<br/>
 
 ---
 
-### `04` &nbsp; SNAKE
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/talhashafi-04/talhashafi-04/output/github-contribution-grid-snake-dark.svg"/>
-    <img alt="snake animation" src="https://raw.githubusercontent.com/talhashafi-04/talhashafi-04/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-</div>
-
-<br>
-
----
-
-### `05` &nbsp; ACHIEVEMENTS
+<!-- ░░░ FOOTER ░░░ -->
 
 <div align="center">
 
-| BADGE | TITLE | DETAIL |
-|:---:|:---|:---|
-| 🥇 | **ICPC Asia Regional 2025** | Team *Fikr-e-code* · **21st in Pakistan** |
-| 🏅 | **Code Jail — Perfect Score** | 1st Place · Tech'On '25 |
-| 📜 | **Dean's List of Honors** | Spring 2023 & Spring 2024 |
-| 📖 | **Hafiz-e-Quran** | Memorized the entire Holy Quran |
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:060A14,30:0B1628,60:112240,100:060A14&height=130&section=footer&reversal=false&fontColor=5B8DD9" />
 
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0f1e&height=100&section=footer&reversal=true" />
-
-`— Islamabad, Pakistan · talhashafi-04 —`
+<sub>Designed with precision · Islamabad, Pakistan · © 2025 Muhammad Talha Shafi</sub>
 
 </div>
