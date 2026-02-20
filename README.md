@@ -50,7 +50,6 @@ fun_fact    : I am a part-time chef — now I "cook" optimized C++ code and AI a
 
 **Stats**
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=talhashafi-04&show_icons=true&hide_border=true&bg_color=0B1628&title_color=5B8DD9&text_color=8BAFD4&icon_color=5B8DD9&count_private=true&rank_icon=github&hide=issues"/>
 
 <img width="100%" src="https://streak-stats.demolab.com?user=talhashafi-04&hide_border=true&background=0B1628&ring=5B8DD9&fire=5B8DD9&currStreakLabel=8BAFD4&sideLabels=8BAFD4&dates=4b5563&currStreakNum=E8EDF5&sideNums=E8EDF5"/>
 
