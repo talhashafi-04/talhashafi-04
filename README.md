@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:0f1923,100:0a0a0a&height=280&section=header&text=Muhammad%20Talha%20Shafi&fontSize=52&fontColor=e2e8f0&animation=fadeIn&fontAlignY=45&desc=Building%20intelligent%20systems%20at%20the%20edge%20of%20AI%20%26%20engineering&descSize=15&descAlignY=65&descColor=64748b&stroke=1A56A0&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0f1923,100:0a0a0a&height=280&section=header&text=Muhammad%20Talha%20Shafi&fontSize=52&fontColor=e2e8f0&animation=fadeIn&fontAlignY=45&desc=Building%20intelligent%20systems%20at%20the%20edge%20of%20AI%20%26%20engineering&descSize=15&descAlignY=65&descColor=64748b&stroke=1A56A0&strokeWidth=1" />
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=4A90D9&center=true&vCenter=true&multiline=false&width=600&lines=AI+%26+Automation+Engineer+%F0%9F%A4%96;Competitive+Programmer+%7C+ICPC+Finalist+%F0%9F%8F%86;CS+Undergrad+%40+FAST-NUCES+%E2%80%9827+%F0%9F%8E%93;Building+Agentic+AI+Systems+%F0%9F%9A%80;GPU+%26+HPC+Enthusiast+%E2%9A%A1;Hafiz-e-Quran+%F0%9F%93%96" alt="Typing SVG" />
