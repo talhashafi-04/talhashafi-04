@@ -3,7 +3,7 @@
 <!-- SNAKE AS HERO BACKGROUND -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/talhashafi-04/talhashafi-04/output/github-contribution-grid-snake-dark.svg"/>
-  <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/talhashafi-04/talhashafi-04/output/github-contribution-grid-snake-dark.svg"/>
+  <img width="100%" height="90%" alt="contribution snake" src="https://raw.githubusercontent.com/talhashafi-04/talhashafi-04/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 <br/>
