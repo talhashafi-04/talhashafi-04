@@ -31,24 +31,36 @@ fun_fact    : I am a part-time chef — now I "cook" optimized C++ code and AI a
 
 ---
 
-<table width="100%"><tr>
-<td width="48%" valign="top">
+<div align="center">
+<table width="100%" style="width:100%"><tr>
+<td width="48%" valign="top" align="center">
 
 **Stack**
 
 <img src="https://skillicons.dev/icons?i=python,cpp,js,java,cs,react,nodejs,fastapi,docker,mongodb,linux,git&perline=6&theme=dark"/>
 
+
 ![n8n](https://img.shields.io/badge/n8n-0B1628?style=flat-square&logo=n8n&logoColor=EA4B71)
-![LangChain](https://img.shields.io/badge/LangChain-0B1628?style=flat-square&logoColor=5B8DD9)
-![LangGraph](https://img.shields.io/badge/LangGraph-0B1628?style=flat-square&logoColor=5B8DD9)
-![OpenAI](https://img.shields.io/badge/OpenAI-0B1628?style=flat-square&logo=openai&logoColor=5B8DD9)
+![LangChain](https://img.shields.io/badge/LangChain-0B1628?style=flat-square&logo=chainlink&logoColor=5B8DD9)
+![LangGraph](https://img.shields.io/badge/LangGraph-0B1628?style=flat-square&logo=dependabot&logoColor=5B8DD9)
 ![CUDA](https://img.shields.io/badge/CUDA-0B1628?style=flat-square&logo=nvidia&logoColor=76B900)
+![Anthropic](https://img.shields.io/badge/Anthropic-0B1628?style=flat-square&logo=anthropic&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-0B1628?style=flat-square&logo=groq&logoColor=F55036)
+![Tailwind](https://img.shields.io/badge/Tailwind-0B1628?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![Pandas](https://img.shields.io/badge/Pandas-0B1628?style=flat-square&logo=pandas&logoColor=5B8DD9)
+![Jupyter](https://img.shields.io/badge/Jupyter-0B1628?style=flat-square&logo=jupyter&logoColor=F37626)
+![Bash](https://img.shields.io/badge/Bash-0B1628?style=flat-square&logo=gnubash&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0B1628?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
 
 </td>
-<td width="52%" valign="top">
+<td width="52%" valign="top" align="center">
 
 **Stats**
 
-<img width="100%" height="130" src="https://streak-stats.demolab.com?user=talhashafi-04&hide_border=true&background=0B1628&ring=5B8DD9&fire=5B8DD9&currStreakLabel=8BAFD4&sideLabels=8BAFD4&dates=4b5563&currStreakNum=E8EDF5&sideNums=E8EDF5"/>
+
+<img width="100%" height="160" src="https://streak-stats.demolab.com?user=talhashafi-04&hide_border=true&background=0B1628&ring=5B8DD9&fire=5B8DD9&currStreakLabel=8BAFD4&sideLabels=8BAFD4&dates=4b5563&currStreakNum=E8EDF5&sideNums=E8EDF5"/>
+
 </td>
 </tr></table>
+</div>
+
