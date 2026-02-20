@@ -21,7 +21,6 @@
 <a href="https://github.com/talhashafi-04"><img src="https://img.shields.io/badge/GitHub-0B1628?style=for-the-badge&logo=github&logoColor=5B8DD9"/></a>
 
 <br/>
-<img src="https://komarev.com/ghpvc/?username=talhashafi-04&label=VIEWS&color=0B1628&style=flat&labelColor=0B1628"/>
 
 </div>
 
