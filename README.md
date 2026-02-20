@@ -1,16 +1,17 @@
 <div align="center">
 
-<!-- SNAKE HERO -->
+<!-- SNAKE HERO — dark svg for dark mode, light svg for light mode -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/talhashafi-04/talhashafi-04/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/talhashafi-04/talhashafi-04/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/talhashafi-04/talhashafi-04/output/github-contribution-grid-snake.svg"/>
   <img width="100%" alt="snake" src="https://raw.githubusercontent.com/talhashafi-04/talhashafi-04/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
-<!-- NAME — dark text on light, light text on dark -->
 <h2>Muhammad Talha Shafi</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=700&color=5B8DD9&center=true&vCenter=true&width=500&lines=AI+%26+Automation+Engineer+%7C+ICPC+21st+in+Pakistan+%F0%9F%8F%86;CS+Undergrad+%40+FAST-NUCES+%2727+%7C+Hafiz-e-Quran+%F0%9F%93%96" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2200&pause=600&color=5B8DD9&center=true&vCenter=true&width=540&lines=AI+%26+Automation+Engineer+%F0%9F%A4%96;ICPC+Regional+2025+%E2%80%94+21st+in+Pakistan+%F0%9F%8F%86;Technical+Lead+%40+Meri+Kahani+Society+%F0%9F%9B%A0%EF%B8%8F;CS+Undergrad+%40+FAST-NUCES+%2727+%F0%9F%8E%93;Hafiz-e-Quran+%F0%9F%93%96;Competitive+Programmer+%E2%9A%94%EF%B8%8F;Part-time+Chef+%F0%9F%8D%B3+%7C+Full-time+Engineer;Teaching+Assistant+%40+FAST-NUCES;Photography+Enthusiast+%F0%9F%93%B7;Community+Volunteer+%26+Mentor+%F0%9F%A4%9D;Dean%27s+List+of+Honors+%F0%9F%93%9C;Building+Agentic+AI+Systems+%F0%9F%9A%80" />
+
+<br/>
 
 <a href="https://linkedin.com/in/muhammad-talha-shafi"><img src="https://img.shields.io/badge/LinkedIn-0B1628?style=flat-square&logo=linkedin&logoColor=5B8DD9"/></a>&nbsp;
 <a href="mailto:m.talhashafi2004@gmail.com"><img src="https://img.shields.io/badge/Email-0B1628?style=flat-square&logo=gmail&logoColor=5B8DD9"/></a>&nbsp;
@@ -31,7 +32,7 @@ fun_fact    : I am a part-time chef — now I "cook" optimized C++ code and AI a
 ---
 
 <table width="100%"><tr>
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
 **Stack**
 
@@ -45,13 +46,13 @@ fun_fact    : I am a part-time chef — now I "cook" optimized C++ code and AI a
 ![Anthropic](https://img.shields.io/badge/Anthropic-0B1628?style=flat-square&logoColor=5B8DD9)
 
 </td>
-<td width="50%" valign="top">
+<td width="52%" valign="top">
 
 **Stats**
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=talhashafi-04&show_icons=true&hide_border=true&bg_color=0B1628&title_color=5B8DD9&text_color=8BAFD4&icon_color=5B8DD9&count_private=true&rank_icon=github&hide=issues&card_width=400"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=talhashafi-04&show_icons=true&hide_border=true&bg_color=0B1628&title_color=5B8DD9&text_color=8BAFD4&icon_color=5B8DD9&count_private=true&rank_icon=github&hide=issues"/>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=talhashafi-04&hide_border=true&background=0B1628&ring=5B8DD9&fire=5B8DD9&currStreakLabel=8BAFD4&sideLabels=8BAFD4&dates=4b5563&currStreakNum=E8EDF5&sideNums=E8EDF5"/>
+<img width="100%" src="https://streak-stats.demolab.com?user=talhashafi-04&hide_border=true&background=0B1628&ring=5B8DD9&fire=5B8DD9&currStreakLabel=8BAFD4&sideLabels=8BAFD4&dates=4b5563&currStreakNum=E8EDF5&sideNums=E8EDF5"/>
 
 </td>
 </tr></table>
