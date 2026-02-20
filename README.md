@@ -43,15 +43,12 @@ fun_fact    : I am a part-time chef — now I "cook" optimized C++ code and AI a
 ![LangGraph](https://img.shields.io/badge/LangGraph-0B1628?style=flat-square&logoColor=5B8DD9)
 ![OpenAI](https://img.shields.io/badge/OpenAI-0B1628?style=flat-square&logo=openai&logoColor=5B8DD9)
 ![CUDA](https://img.shields.io/badge/CUDA-0B1628?style=flat-square&logo=nvidia&logoColor=76B900)
-![Anthropic](https://img.shields.io/badge/Anthropic-0B1628?style=flat-square&logoColor=5B8DD9)
 
 </td>
 <td width="52%" valign="top">
 
 **Stats**
 
-
-<img width="100%" src="https://streak-stats.demolab.com?user=talhashafi-04&hide_border=true&background=0B1628&ring=5B8DD9&fire=5B8DD9&currStreakLabel=8BAFD4&sideLabels=8BAFD4&dates=4b5563&currStreakNum=E8EDF5&sideNums=E8EDF5"/>
-
+<img width="100%" height="130" src="https://streak-stats.demolab.com?user=talhashafi-04&hide_border=true&background=0B1628&ring=5B8DD9&fire=5B8DD9&currStreakLabel=8BAFD4&sideLabels=8BAFD4&dates=4b5563&currStreakNum=E8EDF5&sideNums=E8EDF5"/>
 </td>
 </tr></table>
