@@ -8,9 +8,7 @@
 </picture>
 
 <h2>Muhammad Talha Shafi</h2>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=600&color=5B8DD9&center=true&vCenter=true&width=540&lines=AI+%26+Automation+Engineer+%F0%9F%A4%96;ICPC+Regional+2025+%E2%80%94+21st+in+Pakistan+%F0%9F%8F%86;Technical+Lead+%40+Meri+Kahani+Society+%F0%9F%9B%A0%EF%B8%8F;CS+Undergrad+%40+FAST-NUCES+%2727+%F0%9F%8E%93;Hafiz-e-Quran+%F0%9F%93%96;Competitive+Programmer+%E2%9A%94%EF%B8%8F;Part-time+Chef+%F0%9F%8D%B3+%7C+Full-time+Engineer;Teaching+Assistant+%40+FAST-NUCES;Photography+Enthusiast+%F0%9F%93%B7;Community+Volunteer+%26+Mentor+%F0%9F%A4%9D;Dean%27s+List+of+Honors+%F0%9F%93%9C;Building+Agentic+AI+Systems+%F0%9F%9A%80" />
-
+https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=600&color=5B8DD9&center=true&vCenter=true&width=540&lines=SWE+Intern+%40+Beaj+Education+%F0%9F%92%BC;AI+%26+Automation+Engineer+%F0%9F%A4%96;ICPC+Regional+2025+%E2%80%94+21st+in+Pakistan+%F0%9F%8F%86;Technical+Lead+%40+Meri+Kahani+Society+%F0%9F%9B%A0%EF%B8%8F;CS+Undergrad+%40+FAST-NUCES+%2727+%F0%9F%8E%93;Hafiz-e-Quran+%F0%9F%93%96;Competitive+Programmer+%E2%9A%94%EF%B8%8F;Part-time+Chef+%F0%9F%8D%B3+%7C+Full-time+Engineer;Teaching+Assistant+%40+FAST-NUCES;Photography+Enthusiast+%F0%9F%93%B7;Community+Volunteer+%26+Mentor+%F0%9F%A4%9D;Dean%27s+List+of+Honors+%F0%9F%93%9C;Building+Agentic+AI+Systems+%F0%9F%9A%80
 <br/>
 
 <a href="https://linkedin.com/in/muhammad-talha-shafi"><img src="https://img.shields.io/badge/LinkedIn-0B1628?style=flat-square&logo=linkedin&logoColor=5B8DD9"/></a>&nbsp;
