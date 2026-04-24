@@ -23,11 +23,10 @@
 ---
 
 ```yaml
-role        : Technical Lead @ Meri Kahani Society  |  FAST-NUCES '27  |  CGPA 3.58/4.0
+role        : SWE Intern @ Beaj Education | Technical Lead @ Meri Kahani Society
 focus       : Agentic AI · LangGraph · GPU Computing (CUDA/OpenACC) · Full-Stack Automation
 achievement : ICPC Regional 2025 — 21st in Pakistan 🏆  |  Code Jail — 1st Place 🥇  |  Dean's List 📜
 fun_fact    : I am a part-time chef — now I "cook" optimized C++ code and AI agents 🍳
-current    : SWE Intern @ Beaj Education
 ```
 
 ---
